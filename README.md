@@ -1,9 +1,15 @@
 <div  align="center">
-    <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小琦祝您今天愉快!&center=true&size=27"> </a> </h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小琦祝您今天愉快!&center=true&size=27"> 
+    <!-- knock code pictures 敲代码的图片 -->
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    </div>
+    <div>&emsp;</div>
     <div> 
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-        <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
-        <img src="https://visitor-badge.glitch.me/badge?page_id=xiaoqixiaoqi1113" />
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />&emsp; 
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" /> &emsp;
+        <img src="https://img.shields.io/badge/-JavaScript-oringe?logo=javascript" /> &emsp;
+        <img src="https://img.shields.io/badge/-vue-oringe?logo=vuedotjs&logoColor=white" /> &emsp;
+        <img src="https://img.shields.io/badge/-node.js-oringe?logo=nodedotjs&logoColor=white" /> 
     </div>
 </div>
