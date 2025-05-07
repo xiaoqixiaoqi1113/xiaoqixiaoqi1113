@@ -22,12 +22,13 @@
         <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /> &emsp;
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> &emsp;
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> &emsp;
-        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> &emsp;
+        <img src="https://img.shields.io/badge/-UniApp-07C160?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwLDAsMSwxLDIsMTIsMTAsMTAsMCwwLDEsMTIsMm0wLDJhOCw4LDAsMSwwLDgsOCw4LDgsMCwwLDAtOC04WiIvPjwvc3ZnPg==&logoColor=white" /> &emsp;
+        <img src="https://img.shields.io/badge/-微信小程序-07C160?style=flat-square&logo=wechat&logoColor=white" />
     </div>
-
 </div>
 
-# 你好，世界！
+# 你好！
 
 <table>
 <tr>
@@ -42,6 +43,10 @@
 -   🔭 正在学习和探索前端与全栈开发的新技术
 -   🚀 我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系
 -   💬 **We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.**
+-   🛠️ 专注于前端开发，精通 HTML、CSS、JavaScript、Vue.js 等技术栈
+-   📱 拥有丰富的移动端开发经验，包括 UniApp 和微信小程序
+-   🌐 有 Node.js 后端开发经验，追求全栈发展
+-   🔍 热衷于 UI/UX 设计与交互体验优化
 
 </td>
 </tr>
