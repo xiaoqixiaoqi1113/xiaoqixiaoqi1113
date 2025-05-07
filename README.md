@@ -1,34 +1,26 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到小琦的代码世界!;热爱编程与创造!&center=true&size=27&color=3A7BF7">
-    <!-- knock code pictures 敲代码的图片 -->
+### 你好, 我是小琦！👋
+
+<div >
+    <div>
+        <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+        <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+        <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+        <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+        <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+        <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+        <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+    </div>
+    <div>&emsp;</div>
+    <div>
+        <a href="https://github.com/xiaoqixiaoqi1113"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+        &#8287;&#8287;
+    </div>
+    <div>&emsp;</div>
     <div>
         <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     </div>
     <div>&emsp;</div>
-    <!-- Social badges section -->
-    <div>
-        <a href="https://github.com/xiaoqixiaoqi1113"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-        &#8287;&#8287;
-        <!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-        &#8287;&#8287;
-        <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
-    </div>
-    <div>&emsp;</div>
-    <!-- Tech stack badges -->
-    <div>
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&emsp;
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> &emsp;
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> &emsp;
-        <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /> &emsp;
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> &emsp;
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> &emsp;
-        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> &emsp;
-        <img src="https://img.shields.io/badge/-UniApp-07C160?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwLDAsMSwxLDIsMTIsMTAsMTAsMCwwLDEsMTIsMm0wLDJhOCw4LDAsMSwwLDgsOCw4LDgsMCwwLDAtOC04WiIvPjwvc3ZnPg==&logoColor=white" /> &emsp;
-        <img src="https://img.shields.io/badge/-微信小程序-07C160?style=flat-square&logo=wechat&logoColor=white" />
-    </div>
 </div>
-
-# 你好！
 
 <table>
 <tr>
